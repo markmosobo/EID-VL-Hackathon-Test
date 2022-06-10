@@ -25,7 +25,9 @@
   <p align="center">
         Using Laravel PHP framework, develop a simple application for immunization. The application should 
         have basic reports such as the number of children vaccinated by vaccine types. The application should 
-        support updates of the records.
+        support updates of the records.You are to use only PHP laravel and Mysql for this exercise.
+        You are expected to adhere to system development best practice when coming up with the solution.
+
     <br />
 
   </p>
