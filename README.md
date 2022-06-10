@@ -13,64 +13,107 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/markmosobo/EID-VIL-Hackathon-Test.git">
+  <a href="https://github.com/markmosobo/farm-management">
 <!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center"> Immunization App</h3>
+  <h3 align="center"> Larafarm</h3>
 
   <p align="center">
-        Using Laravel PHP framework, develop a simple application for immunization. The application should 
-        have basic reports such as the number of children vaccinated by vaccine types. The application should 
-        support updates of the records.
+    a web app to manage crops,poultry, animals and other farm resources plus corresponding finances
+    especially for a farmer bored with manual record keeping
     <br />
 
   </p>
 </div>
 
-## Learning Laravel
+<!-- ABOUT THE PROJECT -->
+## About The Project
+Here’s what your completed application will look like:
+![farm](https://user-images.githubusercontent.com/34887895/171955472-bb520b79-4c5d-4464-bed3-37c52b4c6f32.PNG)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<!-- GETTING STARTED -->
+## Getting Started
 
-### Premium Partners
+To get a local copy up and running follow these simple example steps.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+## Requirements
 
-## Contributing
+The current package requirements are:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Laravel >= 6.x
+- PHP >= 7.2
+- Node JS >=10.0
 
-## Code of Conduct
+### Installation
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-## Security Vulnerabilities
+1. Get a free API Key at [https://github.com](https://github.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/markmosobo/farm-management.git
+   ```
+2. Install compoer dependencies
+   ```sh
+   composer install
+   ```
+4. Install NPM packages
+   ```sh
+   npm install
+   ```
+5. Run this command
+   ```sh
+   cp .env.example .env
+   ```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+6. Run each of these commands 
+   ```sh
+   php artisan key:generate
+   ```
+   ```sh
+   php artisan migrate
+   ```
+   ```sh
+   php artisan db:seed
+   ```   
+7. Finally
+   ```sh
+   php artisan serve
+   ```  
+8. Login credentials (admin)
+    admin@admin.com
+    123456   
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## License
+<!-- CONTACT -->
+## Contact
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# EID-VL-Hackathon-Test
+<!-- Your Name - [@your_twitter](https://twitter.com/markmosobo) - email@example.com
+ -->
+Project Link: [https://github.com/markmosobo/farm-management](https://github.com/markmosobo/farm-management)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/markmosobo/farm-management.svg?style=for-the-badge
+[contributors-url]: https://github.com/markmosobo/farm-management/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/markmosobo/farm-management.svg?style=for-the-badge
+[forks-url]: https://github.com/markmosobo/farm-management/network/members
+[stars-shield]: https://img.shields.io/github/stars/markmosobo/farm-management.svg?style=for-the-badge
+[stars-url]: https://github.com/markmosobo/farm-management/stargazers
+[issues-shield]: https://img.shields.io/github/issues/markmosobo/farm-management.svg?style=for-the-badge
+[issues-url]: https://github.com/markmosobo/farm-management/issues
+[license-shield]: https://img.shields.io/github/license/markmosobo/farm-management.svg?style=for-the-badge
+[license-url]: https://github.com/markmosobo/farm-management/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/mark-mosobo
+[product-screenshot]: images/screenshot.png
