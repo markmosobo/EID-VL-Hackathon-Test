@@ -26,6 +26,7 @@
             <td>{{$immunization->vaccine}}</td>
             <td>
                 <a href="{{url('edit/'.$immunization->id)}}"><span class="fa fa-pencil"></span></a>
+                <a href="{{url('delete/'.$immunization->id)}}"><span class="fa fa-trash"></span></a>
             </td>
             </tr>
             @endforeach
