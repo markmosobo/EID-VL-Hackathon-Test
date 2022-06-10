@@ -20,11 +20,12 @@
 <!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center"> Larafarm</h3>
+  <h3 align="center"> Immunization App</h3>
 
   <p align="center">
-    a web app to manage crops,poultry, animals and other farm resources plus corresponding finances
-    especially for a farmer bored with manual record keeping
+        Using Laravel PHP framework, develop a simple application for immunization. The application should 
+        have basic reports such as the number of children vaccinated by vaccine types. The application should 
+        support updates of the records.
     <br />
 
   </p>
@@ -104,16 +105,16 @@ Project Link: [https://github.com/markmosobo/farm-management](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/markmosobo/farm-management.svg?style=for-the-badge
-[contributors-url]: https://github.com/markmosobo/farm-management/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/markmosobo/farm-management.svg?style=for-the-badge
-[forks-url]: https://github.com/markmosobo/farm-management/network/members
-[stars-shield]: https://img.shields.io/github/stars/markmosobo/farm-management.svg?style=for-the-badge
-[stars-url]: https://github.com/markmosobo/farm-management/stargazers
-[issues-shield]: https://img.shields.io/github/issues/markmosobo/farm-management.svg?style=for-the-badge
-[issues-url]: https://github.com/markmosobo/farm-management/issues
-[license-shield]: https://img.shields.io/github/license/markmosobo/farm-management.svg?style=for-the-badge
-[license-url]: https://github.com/markmosobo/farm-management/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/markmosobo/EID-VL-Hackathon-Test.svg?style=for-the-badge
+[contributors-url]: https://github.com/markmosobo/EID-VL-Hackathon-Test/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/markmosobo/EID-VL-Hackathon-Test.svg?style=for-the-badge
+[forks-url]: https://github.com/markmosobo/EID-VL-Hackathon-Test/network/members
+[stars-shield]: https://img.shields.io/github/stars/markmosobo/EID-VL-Hackathon-Test.svg?style=for-the-badge
+[stars-url]: https://github.com/markmosobo/EID-VL-Hackathon-Test/stargazers
+[issues-shield]: https://img.shields.io/github/issues/markmosobo/EID-VL-Hackathon-Test.svg?style=for-the-badge
+[issues-url]: https://github.com/markmosobo/EID-VL-Hackathon-Test/issues
+[license-shield]: https://img.shields.io/github/license/markmosobo/EID-VL-Hackathon-Test.svg?style=for-the-badge
+[license-url]: https://github.com/markmosobo/EID-VL-Hackathon-Test/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mark-mosobo
 [product-screenshot]: images/screenshot.png
