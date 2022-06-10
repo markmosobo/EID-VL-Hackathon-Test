@@ -34,8 +34,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Here’s what your completed application will look like:
-![farm](https://user-images.githubusercontent.com/34887895/171955472-bb520b79-4c5d-4464-bed3-37c52b4c6f32.PNG)
 
+![eid-vl-hackathon](https://user-images.githubusercontent.com/34887895/173070212-a93e7403-24bb-47eb-951a-d09044fa1e62.gif)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
