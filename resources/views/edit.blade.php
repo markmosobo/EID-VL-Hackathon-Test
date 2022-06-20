@@ -21,8 +21,9 @@
   <div class="form-group">
     <label>Vaccine Type</label>
     <select class="form-control" name="vaccine" id="vaccine" required>
-      <option value="">Choose Vaccine</option> 
-      <option value="Covax">Covax</option>
+      {{$highlighted = $immunization->vaccine}}
+      <option selected disable="true" value="{{$immunization->vaccine}}">{{$immunization->vaccine}}</option> 
+      <option value="Covax" {{ ($highlighted == 'Covax') ? 'selected' : '' }}>Covax</option>
       <option value="Pfizer">Pfizer</option>
       <option value="Johnson & Johnson">Johnson & Johnson</option>
       <option value="Moderna">Moderna</option>
